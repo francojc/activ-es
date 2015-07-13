@@ -1,8 +1,23 @@
 ACTIV-ES
 =============================
 ## Jerid Francom, Mans Hulden, and Adam Ussishkin
-### Version 0.1
 ### Contact: francojc@wfu.edu
+
+### Version 0.2
+
+A version of the tagged running format corpus in the /eagles directory has been added which includes the EAGLES tagset. This tagset is much more fleshed out than the simplified tagset in the /tagged directory. For information on the tagset refer here: http://nlp.lsi.upc.edu/freeling/doc/tagsets/tagset-es.html.
+
+### Sample
+
+EAGLES 
+
+        Báez/NP000P0  .../Fs  Carrizo/NCMS000  ./Fp   ¿/Fia  Te/NP00000  escribió/VMIS3S0  ?/Fit   ¿/Fia  Quién/PT0CS000  te/PP2CS000  dijo/VMIS3S0  ?/Fit   Ibáñez/NP000P0  .../Fs  Sí/RG  ,/Fc  me/PP1CS000  llegó/VMIS3S0  una/DI0FS0  carta/NCFS000  antes/RG  de/SPS00  ayer/RG  ./Fp   Moes/NP000P0  .../Fs  ¿/Fia  Y/CC  qué/PT0CS000  dice/VMIP3S0  ?/Fit   Garrido/AQ0MS0  .../Fs  Todavía/RG  no/RN  la/PP3FSA00  abrí/VMIS1S0  ./Fp   Alonzo/NCMS000  .../Fs  Miller/VMN0000  .../Fs  Anuncios/NCMP000  por/SPS00  altavoces/NCMP000  ¿/Fia  Qué/NP00000  tal/PD0CS000  ?/Fit   Hola/I  ./Fp   Gracias/NCFP000  ./Fp   Voz/NCFS000  de/SPS00  mujer/NCFS000  ¡/Faa  Bruno/NP00000  !/Fat   ¡/Faa  Bruno/NP00000  !/Fat   ¡/Faa  Concha/NP00000  !/Fat   Sonido/NCMS000  de/SPS00  tren/NCMS000  ¿/Fia  Me/PP1CS000  vas/VMIP2S0  a/SPS00  dejar/VMN0000  esperando/VMG0000  acá/RG  afuera/RG  ?/Fit   ¿/Fia  Está/NP00000  obra/NCFS000  es/VSIP3S0  tuya/AQ0FS0  ?/Fit   Sí/RG  ,/Fc  es/VSIP3S0  un/DI0MS0  guión/NCMS000  ./Fp
+
+Note that the reliability of these tags are most likely to be less than the simplified version which has been documented in the following paper:
+
+Francom, J., Hulden, M., & Ussishkin, A. (2014). ACTIV-ES: a comparable , cross-dialect corpus of “everyday ” Spanish from Argentina, Mexico and Spain. In The ninth international conference on Language Resources and Evaluation (pp. 1733–1737).
+
+### Version 0.1
 
 DESCRIPTION:
 ACTIV-ES is a comparable Spanish corpus comprised of film dialogue from Argentine, Mexican and Spanish productions. Titles for each of these three countries were seeded from the Internet Movie Database, subtitle data for the hearing impaired was provided by Opensubtitles.org and was post-processed to correct/remove subtitle, OCR and diacritic artifacts and annotated for part-of-speech.
