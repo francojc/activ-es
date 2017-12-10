@@ -15,7 +15,7 @@ EAGLES
 
 Note that the reliability of these tags are most likely to be less than the simplified version which has been documented in the following paper:
 
-Francom, J., Hulden, M., & Ussishkin, A. (2014). ACTIV-ES: a comparable , cross-dialect corpus of “everyday ” Spanish from Argentina, Mexico and Spain. In The ninth international conference on Language Resources and Evaluation (pp. 1733–1737).
+Francom, J., Hulden, M., & Ussishkin, A. (2014). [ACTIV-ES: a comparable , cross-dialect corpus of "everyday" Spanish from Argentina, Mexico and Spain.](http://www.lrec-conf.org/proceedings/lrec2014/summaries/691.html) In The ninth international conference on Language Resources and Evaluation (pp. 1733–1737).
 
 ### Version 0.1
 
@@ -26,7 +26,7 @@ The data is available in two main formats: 1) running text for each document and
 
 For more information about the development and evaluation of these resources and to cite this work refer to:
 
-Francom, J., Hulden, M. and Ussishkin, A.. (2014) [ACTIV-ES: a comparable, cross-dialect corpus of ‘everyday’ Spanish from Argentina, Mexico, and Spain.](https://www.academia.edu/6962707/ACTIV-ES_a_comparable_cross-dialect_corpus_of_everyday_Spanish_from_Argentina_Mexico_and_Spain) In Proceedings of the Ninth Annual Language Resources and Evaluation Conference, Reykjavik, Iceland. European Language Resources Association (ELRA).
+Francom, J., Hulden, M. and Ussishkin, A.. (2014) [ACTIV-ES: a comparable, cross-dialect corpus of ‘everyday’ Spanish from Argentina, Mexico, and Spain.](http://www.lrec-conf.org/proceedings/lrec2014/summaries/691.html) In Proceedings of the Ninth Annual Language Resources and Evaluation Conference, Reykjavik, Iceland. European Language Resources Association (ELRA).
 
 ## Sample running text
 
