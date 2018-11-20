@@ -3,6 +3,8 @@ ACTIV-ES
 ## Jerid Francom, Mans Hulden, and Adam Ussishkin
 ### Contact: francojc@wfu.edu
 
+[![DOI](https://zenodo.org/badge/13521878.svg)](https://zenodo.org/badge/latestdoi/13521878)
+
 ### Version 0.2
 
 A version of the tagged running format corpus in the /eagles directory has been added which includes the EAGLES tagset. This tagset is much more fleshed out than the simplified tagset in the /tagged directory. For information on the tagset refer here: http://nlp.lsi.upc.edu/freeling/doc/tagsets/tagset-es.html.
